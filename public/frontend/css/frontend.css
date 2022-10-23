@@ -1,0 +1,43 @@
+.content{
+    margin-top: 35px;
+    min-height: 500px;
+}
+
+.page-title{
+    font-weight: bold;
+}
+
+.in-content{
+    min-height: 400px;
+}
+
+.form input{
+    margin-bottom: 10px;
+}
+.form label{
+    margin: 5px 0;
+    font-weight: bold;
+}
+.form .form-group .custom-control-label{
+    font-weight: normal;
+}
+.img-front{
+    max-height: 500px !important;
+}
+.paginate{
+    max-height: 10px;
+}
+.paginate svg{
+    height: 20px !important;
+}
+.image-box{
+    transition: 0.2s all ease-out;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 100%; */
+    height: 235px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    top: 0;
+}
